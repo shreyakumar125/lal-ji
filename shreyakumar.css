@@ -1,0 +1,131 @@
+img{
+	width:100%;
+	margin:20px;
+	border:20px solid;
+	border-color:#18b092;
+	border-radius:15px;
+}
+#headsection{
+	float:right;
+	right:100px;
+	background-color: #efefef;
+	height:150px;
+	width:80%;
+	margin-top:-314px;
+	margin-right:20px;
+	border:3px solid;
+	border-radius:10px;
+	border-color:#18b092;
+	}
+h1
+{
+	padding:0;
+	margin:0;
+	color:#18b092;
+	font-size:100px;
+	padding-top:20px;
+	text-align: center;
+}
+#left-menubar
+{
+	float:left;
+	left:0px;
+	background-color: #efefef;
+	height:200px;
+	width:10.5%;
+	border:20px solid;
+	border-color:#18b092;
+	margin:20px;
+	padding:20px;
+	border-radius:15px;
+}
+.button{
+	background-color:#18b092;
+	border-radius:10px;
+	font-size:18px;
+	text-align:center;
+	text-decoration:none;
+	display:left;
+	cursor:pointer;
+	margin-top:4px;
+	margin-left:30px;
+	margin-bottom:4px;
+	margin-right:0px;
+	padding:03px 05px;
+	color: white;
+}
+.button:hover{
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#downbar{
+	float:right;
+	width:80%;
+	height:30px;
+	background-color:#efefef;
+	border:03px solid;
+	border-radius:10px;
+	border-color:#18b092;
+	padding-left:0px;
+	margin-top:-462px;
+	margin-right:20px;
+}
+p{
+	padding:0;
+	margin:0;
+	color:#18b092;
+	font-size:20px;
+	text-align:center;
+	padding-top:2px;
+}
+#menubar
+{
+	float:right;
+	width:80%;
+	height:-140px;
+	background-color:#efefef;
+	border:03px solid;
+	border-radius:10px;
+	border-color:#18b092;
+	padding:0px;
+	margin-top:-410px;
+	margin-right:20px;
+	list-style-type:center;
+}
+.button-2
+{
+	background-color:#18b092;
+	border-radius:10px;
+	font-size:25px;
+	text-align:center;
+	text-decoration:none;
+	display:center;
+	cursor:pointer;
+	margin-top:4px;
+	margin-bottom:4px;
+	margin-left:115px;
+	margin-right:0px;
+	padding:03px 05px;
+	color: white;
+}
+.button-2:hover{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#content
+{
+	float:right;
+	right:100px;
+	background-color: #efefef;
+	height:174px;
+	width:80%;
+	margin-top:-300px;
+	margin-right:20px;
+	border:3px solid;
+	border-radius:10px;
+	border-color:#18b092;
+	text-align: center;
+	padding-top:100px;
+}
+body{
+	 background-image: url("002.jpg");
+	 background-repeat: no-repeat
+}

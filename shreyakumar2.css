@@ -1,0 +1,37 @@
+#comming-soon
+            {
+                float:center;
+                background-color: #efefef;
+                text-align: center;
+                border:10px solid;
+                border-radius:5px;
+                border-color:#18b092;
+                padding:20px;
+                margin-top:50px;
+                height:-150px;
+            
+            }
+
+
+h1{
+    padding:0px;
+    margin:0px;
+    color:#18b092;
+    font-size:50px;
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align:center;
+}
+h4{
+    padding:0px;
+    
+    color:#18b092;
+    font-size:30px;
+    padding-top:0px;
+    padding-bottom:10px;
+    text-align:center;
+}
+body{
+    background-image: url("002.jpg");
+    background-repeat: no-repeat
+}
